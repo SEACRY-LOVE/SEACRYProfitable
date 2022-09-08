@@ -1,5 +1,5 @@
 # CMS Version 1.0.1
-Finally! I have re-developed this basic CMS to be WAY more developer friendly and modifiable.
+This basic CMS shall be a way more developer friendly and modifiable.
 
 [The Seacry Team](https://t.me/seacry-love).
 
