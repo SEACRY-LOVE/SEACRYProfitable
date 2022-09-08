@@ -6,7 +6,7 @@ If You Use This System For Anything Other Than Its Intended Purpose,
 Or Loss Of Any Kind. 
 
 Licensing:
-[MIT License Attribution Is Required](https://github.com/seacry-love/basic-cms).
+MIT License Attribution Is Required, visit https://github.com/seacry-love/basic-cms).
 
 Conciderations:
 1) For Better Security, You Should Use Prepared Statements To Query Your DataBase(s), Always.
