@@ -6,24 +6,24 @@ If You Use This System For Anything Other Than Its Intended Purpose,
 Or Loss Of Any Kind. 
 
 Licensing:
-MIT License Attribution Is Required. See: https://github.com/Shawn-Ritch/basic-cms
+[MIT License Attribution Is Required](https://github.com/seacry-love/basic-cms).
 
 Conciderations:
 1) For Better Security, You Should Use Prepared Statements To Query Your DataBase(s), Always.
 2) There are Global PHP Attributes That You May Want To Use To Make This More Secure.
 See: https://www.php.net And / Or Other Guides / Tutorials To Help You.
 
-Thank You For Expanding Your Knowledge Into Content Management Systems, Like This One,
-And Full-Stack / Back-End Web Development.
-It Is Our Pleasure To Help And Give Back To Developers In All Stages Of Their Education.
-We Wish You Good Luck And Happy Hacking ;)
+Thank you for expanding your knowledge into Content Management Systems.
+And full-stack / Back-end web development.
+It is our pleasure to help and give back to developers in all stages of their education.
+We wish you good health, success and hsppiness!
 
 Best Regards,
-Shawn Ritch
-@WebDeveloprz
+
+
+The Seacry Team.
 
 Post Script:
-Please Feel Free To Contact Me / Us For Help Developing This Further To Meet Your Needs.
-Also, I / We Will Require Do Compensation For Our Work / Consultations.
+Feel free to contact us for further development purposes.
 
-For Inquiries, Email Us: contact-us@webdeveloprz.com or webmaster@webdeveloprz.com 
+For inquiries, join our workspace at https://seacry.slack.com.
