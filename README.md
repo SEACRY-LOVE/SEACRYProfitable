@@ -1,7 +1,7 @@
-# basic-cms Version1.0.1
+# CMS Version 1.0.1
 Finally! I have re-developed this basic CMS to be WAY more developer friendly and modifiable.
 
-Check out the installation video... https://youtu.be/gZDmi1FRKwY
+[The Seacry Team](https://t.me/seacry-love).
 
 Benefits of using this CMS:
 1) Desined and developed specifically for developers / programmers.
