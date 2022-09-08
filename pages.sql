@@ -10,9 +10,10 @@ CREATE TABLE `pages` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 INSERT INTO `pages` (`id`, `link`, `linklabel`, `view`, `template`, `robots`, `meta_title`, `meta_description`) VALUES
-(1, '/', 'Home', '1', 'home', 'noindex,nofollow', 'Basic CMS By Shawn Ritch', 'A Basic CMS For Web Developers To Expand Their Knowledge and Understanding Of Full-stack / Back-end Programming'),
-(2, '/about', 'About', '1', 'about', 'noindex,nofollow', 'About This CMS', 'This CMS(Content Management System) Is A Fully Dynamic, Database Driven, One Page Runs All System.'),
-(3, '/contact', 'Contact', '1', 'contact', 'noindex,nofollow', 'Contact Me', 'Send Me An Email | Im Happy To Help You Develop Your Projects | Shawn Ritch'),
+(1, '/', 'Home', '1', 'home', 'noindex,nofollow', 'Basic CMS', 'A Basic CMS for web developers to expand Their nowledge and understanding of full-stack / Back-end Programming'),
+(2, '/about', 'About', '1', 'about', 'noindex,nofollow', 'About This CMS', 'This CMS (Content Management System) Is A fully fynamic, database driven, One Page Runs All System.'),
+(3, '/contact', 'Contact', '1', 'contact', 'noindex,nofollow', 'Contact us', 'Send us a message to https://seacry.slack.com | The Seacry Team is happy to invest in transforming your efforts into results.
+Help You Develop Your Projects'),
 (4, '/404', '404', '1', '404', 'noindex,nofollow', '404 Error', '404 Error | Page Not Found'),
 (5, '/sitemap.html', 'Sitemap', '0', 'sitemap', 'noindex,nofollow', 'Sitemap', 'Sitemap');
 
